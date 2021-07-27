@@ -4,6 +4,3 @@ welcomes to java
 this devops 
 this is master branch 
 we can add data
-hey
-bye 
-
